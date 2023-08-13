@@ -6,9 +6,7 @@ print("-"*141)
 
 print('\033[1;92m' + '\nLIST OF REGISTERED STUDENTS:' + '\033[0;0m')
 
-class Students:
-  """_summary_
-  """    
+class Students:  
   def __init__(self, name):
         self.name = name
         self.registration = '2023202'

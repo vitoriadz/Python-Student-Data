@@ -26,6 +26,6 @@ if __name__ == '__main__':
 
     client = Client(HOST, PORT)
     client.connecting_to_server()
-    file = str(input('Insert the file >>'))
+    file = str(input('Insert the file >> '))
     client.sending_file(file)
     client.closing_connection()
