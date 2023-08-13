@@ -1,0 +1,7 @@
+    | The socket library in Python allows communication between the most different devices, offering
+an interface for us to create and manage sockets, so that clients that connect to
+to servers and carry out this process of sending and receiving data, whether on the same machine or not.
+
+Tradução -> A biblioteca socket no Python permite a comunicação entre os mais diferentes de dispositivos, oferecendo
+uma interface para que possamos criar e gerenciar sockets, para que clientes que se conectem a
+a servidores e façam esse processo de enviar e receber dados, podendo ser na mesma máquina ou não.
